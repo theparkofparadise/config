@@ -1,5 +1,5 @@
 {
-    "download_domain": "https://api.applef.info",
-    "download_file": "http://file.applef.info",
+    "download_domain": "https://api.applef.info/",
+    "download_file": "http://file.applef.info/",
     "init_domain": "https://api.applef.info/"
 }
